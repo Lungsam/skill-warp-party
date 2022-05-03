@@ -1,0 +1,2 @@
+"아무것도 얻을 수 없었습니다.";
+"You must be on the same map as the player you want to bring!";
